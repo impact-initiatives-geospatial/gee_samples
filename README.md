@@ -6,8 +6,6 @@ This is a repository to store use-case examples of earth engine code.
 
 ## How to contribute
 
-### Contributing stand-alone scripts
-
 1. Click Fork
 2. Navigate to your fork and clone (can add git bash instructions here)
 3. Open dev branch
