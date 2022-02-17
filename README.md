@@ -6,13 +6,7 @@ This is a repository to store use-case examples of earth engine code.
 
 ## How to contribute
 
-1. Click Fork
-2. Navigate to your fork and clone (can add git bash instructions here)
-3. Open dev branch
-4. Create a feature branch
-5. Make changes
-6. Make commit with descriptive message
-7. Make a pull request (PR)
+Will follow a GitHub-flow collab framework - will provide instructions here
 
 Follow these instructions for further guidance: https://www.earthdatascience.org/workshops/intro-version-control-git/
 
