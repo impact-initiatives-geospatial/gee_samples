@@ -42,5 +42,7 @@ If you GEE workflows are embedded into larger projects (i.e R projects, websites
 - [SYR - Apr 2022: Humanitarian Impact of Water Shortages in Northeast Syria](https://www.impact-repository.org/document/reach/e6cdd794/REACH_SYR-Humanitarian-Impact-of-Water-Shortages-in-NES-April-2022-1.pdf)
 
 ## Resources
-https://knowyourspace.dk/tag/systemindex/
+
+- [https://mlhub.earth/datasets?search=landcovernet](Radian MLHub Datasets)
+- [https://knowyourspace.dk/tag/systemindex/](Time series for SSM, ET and precipitation for Myanmar [Google Earth Engine])
 
