@@ -39,7 +39,7 @@ If you GEE workflows are embedded into larger projects (i.e R projects, websites
   + put link to code in repo here
 - [SSD - Jan 2022: Drought severity in Eastern Equatoria Map](https://reliefweb.int/map/south-sudan/south-sudan-drought-severity-eastern-equatoria-january-2022-01-february-2022)
   + put link ot code in repo here
-
+- [SYR - Apr 2022: Humanitarian Impact of Water Shortages in Northeast Syria](https://www.impact-repository.org/document/reach/e6cdd794/REACH_SYR-Humanitarian-Impact-of-Water-Shortages-in-NES-April-2022-1.pdf)
 
 ## Resources
 https://knowyourspace.dk/tag/systemindex/
