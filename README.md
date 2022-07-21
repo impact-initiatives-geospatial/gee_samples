@@ -30,5 +30,17 @@ If you GEE workflows are embedded into larger projects (i.e R projects, websites
   + ghi
 
 
+
+## REACH RS Publication Links
+
+- [IRQ - Assessing Water Quality](http://unosat-sdn.web.cern.ch/REACH/Iraq/2020/UNOSAT_Report_WaterQuality_Iraq_V4.pdf)
+  + put link to code in repo here
+- [IRQ - Oct 2020:  AssessingWater Pollution Canals of Basrah City](https://www.impact-repository.org/document/reach/44ed5647/REACH_IRQ_Factsheet_Water_Pollution_Assessment_Canals_Basrah.pdf)
+  + put link to code in repo here
+- [SSD - Jan 2022: Drought severity in Eastern Equatoria Map](https://reliefweb.int/map/south-sudan/south-sudan-drought-severity-eastern-equatoria-january-2022-01-february-2022)
+  + put link ot code in repo here
+
+
 ## Resources
 https://knowyourspace.dk/tag/systemindex/
+
