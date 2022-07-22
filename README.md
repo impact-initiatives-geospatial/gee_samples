@@ -45,4 +45,5 @@ If you GEE workflows are embedded into larger projects (i.e R projects, websites
 
 - [Radiant MLHub Datasets](https://mlhub.earth/datasets?search=landcovernet)
 - [Time series for SSM, ET and precipitation for Myanmar [Google Earth Engine]](https://knowyourspace.dk/tag/systemindex/)
+- [NASA ARSET:  SAR for Flood Mapping Using Google Earth Engine (video)](https://www.youtube.com/watch?v=4Y2giuRPCuc&t=338s)
 
