@@ -40,6 +40,16 @@ If you GEE workflows are embedded into larger projects (i.e R projects, websites
 - [SSD - Jan 2022: Drought severity in Eastern Equatoria Map](https://reliefweb.int/map/south-sudan/south-sudan-drought-severity-eastern-equatoria-january-2022-01-february-2022)
   + put link ot code in repo here
 - [SYR - Apr 2022: Humanitarian Impact of Water Shortages in Northeast Syria](https://www.impact-repository.org/document/reach/e6cdd794/REACH_SYR-Humanitarian-Impact-of-Water-Shortages-in-NES-April-2022-1.pdf)
+  + put link ot code in repo here
+- [SSD - Jan 2022: Drought severity in Eastern Equatoria, South Sudan](https://www.impact-repository.org/document/reach/7deca445/REACH_SSD_Map_SMI_Eastern_Equatoria_Drought_JAN2022_A4.pdf)
+  + put link ot code in repo here
+- [SSD - March 2022: Greater Kapoeta Climate and Displacement Profile, South Sudan](https://www.impact-repository.org/document/reach/deb791be/Kapoeta_Climate_Assessment_Report_Final.pdf)
+  + put link ot code in repo here
+- [SSD - June 2021: Fangak Shocks Verification Mission, South Sudan](https://www.impact-repository.org/document/reach/7a4c9e26/REACH_SSD_Factsheet_Fangak_shocksverification_Nov2021_.pdf)
+  + put link ot code in repo here
+- [UKR - June 2021: Area-Based Risk Assessment, Mariupol Raion, Ukraine](https://www.impact-repository.org/document/repository/a058e1fe/IMPACT_UKR_Report_Mariuopol-ABRA_Aug2021.pdf)
+  + put link ot code in repo here
+- [SSD - December 2021: Flooding trends in counties of particular concern of food insecurity](https://www.impact-repository.org/document/reach/9681ee26/REACH_SSD_FactSheet_IPC_Flooding_Dec2021_ExtremeConcern_All.pdf)
 
 ## Resources
 
