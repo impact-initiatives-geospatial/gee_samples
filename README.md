@@ -40,6 +40,8 @@ If you GEE workflows are embedded into larger projects (i.e R projects, websites
 - [SSD - Jan 2022: Drought severity in Eastern Equatoria Map](https://reliefweb.int/map/south-sudan/south-sudan-drought-severity-eastern-equatoria-january-2022-01-february-2022)
   + put link ot code in repo here
 - [SYR - Apr 2022: Humanitarian Impact of Water Shortages in Northeast Syria](https://www.impact-repository.org/document/reach/e6cdd794/REACH_SYR-Humanitarian-Impact-of-Water-Shortages-in-NES-April-2022-1.pdf)
+- [NGA - July 2022: Yobe Floods: Displacement and Humanitarian Needs Brief ](https://www.impact-repository.org/document/reach/6b1d770d/REACH_NGA_Yobe_Floods_Brief.pdf)
+  + put link to code in repo here
 
 ## Resources
 
