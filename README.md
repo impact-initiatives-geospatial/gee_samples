@@ -42,6 +42,10 @@ If you GEE workflows are embedded into larger projects (i.e R projects, websites
 - [SYR - Apr 2022: Humanitarian Impact of Water Shortages in Northeast Syria](https://www.impact-repository.org/document/reach/e6cdd794/REACH_SYR-Humanitarian-Impact-of-Water-Shortages-in-NES-April-2022-1.pdf)
 - [NGA - July 2022: Yobe Floods: Displacement and Humanitarian Needs Brief ](https://www.impact-repository.org/document/reach/6b1d770d/REACH_NGA_Yobe_Floods_Brief.pdf)
   + put link to code in repo here
+- [SOM - Jan 2022: Hard-to-reach](https://www.impact-repository.org/document/reach/25706701/REACH_SOM_SituationOverview_HardToReachAssessment_January-2022.pdf)
+  + code for maps p. 5
+- [MLI - March 2022: Area-Based-Assessment](https://www.impact-repository.org/document/reach/ff7670d4/REACH_MLI_ABA_Factsheet_TESSIT_Mars-2022.pdf)
+  + code for maps p. 7
 
 ## Resources
 
