@@ -55,3 +55,4 @@ If you GEE workflows are embedded into larger projects (i.e R projects, websites
 - [NASA ARSET: Current & Upcoming Training](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset)
 - [Time series analysis of Landsat NDVI composites with Google Earth Engine and R: User guide](https://www.researchgate.net/profile/Zlatka-Pironkova/publication/329390584_Time_series_analysis_of_Landsat_NDVI_composites_with_Google_Earth_Engine_and_R_User_guide_-_Science_and_Research_Technical_Manual_TM-06/links/5c065725a6fdcc315f9b19e3/Time-series-analysis-of-Landsat-NDVI-composites-with-Google-Earth-Engine-and-R-User-guide-Science-and-Research-Technical-Manual-TM-06.pdf)
 - [Google Earth Engine for Water Resources Management (Full Course Material)](https://courses.spatialthoughts.com/gee-water-resources-management.html)
+- [TOA vs SR - GEE answer](https://groups.google.com/g/google-earth-engine-developers/c/uWpsJtD9iNI/m/Yn--rXamAQAJ)
