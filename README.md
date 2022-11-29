@@ -57,3 +57,4 @@ If you GEE workflows are embedded into larger projects (i.e R projects, websites
 - [Google Earth Engine for Water Resources Management (Full Course Material)](https://courses.spatialthoughts.com/gee-water-resources-management.html)
 - [TOA vs SR - GEE answer](https://groups.google.com/g/google-earth-engine-developers/c/uWpsJtD9iNI/m/Yn--rXamAQAJ)
 - [CLIMDEX: Explore, download and analyse indices of observed and modelled climate extremes](https://www.climdex.org/)
+- `{rgee}` can cause some computers trouble when installing. Here are some more [advanced instructions](https://github.com/ricds/DL_RS_GEE/blob/main/rgee_install_packages.R) which could be helpful along with an accompanying [youtube video](https://www.youtube.com/watch?v=1-k6wNL2hlo)
