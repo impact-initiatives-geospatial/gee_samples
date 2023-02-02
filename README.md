@@ -47,6 +47,7 @@ If you GEE workflows are embedded into larger projects (i.e R projects, websites
 - [MLI - March 2022: Area-Based-Assessment](https://www.impact-repository.org/document/reach/ff7670d4/REACH_MLI_ABA_Factsheet_TESSIT_Mars-2022.pdf)
   + code for maps p. 7
 - [YEM - June 2020: Yemen Watershed and Runoff Potential Analysis Methodology](https://sheltercluster.s3.eu-central-1.amazonaws.com/public/docs/reach_yem_methodologynote_watershedrunoff_20072020.pdf)
+  + [code here](https://github.com/impact-initiatives-geospatial/gee_samples/blob/main/javascript_samples/Flooding/Rainfall_rx_return_period.js)
 
 ## Resources
 
